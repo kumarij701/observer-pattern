@@ -1,0 +1,15 @@
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ObserverEX.exe
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ObserverEX.deps.json
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ObserverEX.runtimeconfig.json
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ObserverEX.dll
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ref\ObserverEX.dll
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\bin\Debug\net6.0\ObserverEX.pdb
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.csproj.AssemblyReference.cache
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.AssemblyInfoInputs.cache
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.AssemblyInfo.cs
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.csproj.CoreCompileInputs.cache
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.dll
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ref\ObserverEX.dll
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.pdb
+C:\Users\2064588\source\repos\ObserverEX\ObserverEX\obj\Debug\net6.0\ObserverEX.genruntimeconfig.cache
